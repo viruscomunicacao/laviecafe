@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lavieadmin &#8211; Lavie Café</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 May 2022 20:09:15 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>Olá, mundo!</title>
+		<link>./../../../ola-mundo/index.html</link>
+					<comments>./../../../ola-mundo/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[lavieadmin]]></dc:creator>
+		<pubDate>Thu, 19 May 2022 20:09:15 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
+
+					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
+										<content:encoded><![CDATA[
+<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../ola-mundo/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Test</title>
+		<link>./../../../test-2/index.html</link>
+					<comments>./../../../test-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[lavieadmin]]></dc:creator>
+		<pubDate>Fri, 03 Dec 2021 08:54:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.php/2021/12/03/test-2/index.html</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../test-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Test</title>
+		<link>./../../../test/index.html</link>
+					<comments>./../../../test/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[lavieadmin]]></dc:creator>
+		<pubDate>Fri, 03 Dec 2021 08:54:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.php/2021/12/03/test/index.html</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../test/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
