@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 28 Jun 2022 19:29:21 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jun 2022 19:53:01 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,23 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
-		<title>Mini Pizza</title>
-		<link>./../../../produto/mini-pizza/index.html</link>
-					<comments>./../../../produto/mini-pizza/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[lavieadmin]]></dc:creator>
-		<pubDate>Wed, 20 Jun 2018 10:13:55 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.php/produto/hand-sanitizer/index.html</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>./../../../produto/mini-pizza/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Pastel</title>
 		<link>./../../../produto/pastel/index.html</link>
 					<comments>./../../../produto/pastel/index.html#respond</comments>
@@ -54,18 +37,18 @@
 		
 			</item>
 		<item>
-		<title>Empada</title>
-		<link>./../../../produto/empada/index.html</link>
-					<comments>./../../../produto/empada/index.html#respond</comments>
+		<title>Mini Pizza</title>
+		<link>./../../../produto/mini-pizza/index.html</link>
+					<comments>./../../../produto/mini-pizza/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[lavieadmin]]></dc:creator>
-		<pubDate>Tue, 19 Jun 2018 16:42:19 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.php/produto/assorted-coffee/index.html</guid>
+		<pubDate>Wed, 20 Jun 2018 10:13:55 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.php/produto/hand-sanitizer/index.html</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>./../../../produto/empada/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>./../../../produto/mini-pizza/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -83,6 +66,23 @@
 										<content:encoded><![CDATA[]]></content:encoded>
 					
 					<wfw:commentRss>./../../../produto/assorted-coffee-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Empada</title>
+		<link>./../../../produto/empada/index.html</link>
+					<comments>./../../../produto/empada/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[lavieadmin]]></dc:creator>
+		<pubDate>Tue, 19 Jun 2018 16:42:19 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.php/produto/assorted-coffee/index.html</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../produto/empada/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
